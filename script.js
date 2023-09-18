@@ -37,3 +37,4 @@ const handleButtonClick = (direction) => {
 
 next.addEventListener("click", () => handleButtonClick("next"));
 prev.addEventListener("click", () => handleButtonClick("prev"));
+
